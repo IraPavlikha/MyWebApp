@@ -1,0 +1,5 @@
+/Users/irapavlikha/RiderProjects/MyWebApp/MyWebApp/obj/Debug/net8.0/MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irapavlikha/RiderProjects/MyWebApp/MyWebApp/obj/Debug/net8.0/MyWebApp.AssemblyInfoInputs.cache
+/Users/irapavlikha/RiderProjects/MyWebApp/MyWebApp/obj/Debug/net8.0/MyWebApp.AssemblyInfo.cs
+/Users/irapavlikha/RiderProjects/MyWebApp/MyWebApp/obj/Debug/net8.0/MyWebApp.csproj.CoreCompileInputs.cache
+/Users/irapavlikha/RiderProjects/MyWebApp/MyWebApp/obj/Debug/net8.0/MyWebApp.sourcelink.json

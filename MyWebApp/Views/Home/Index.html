@@ -1,0 +1,14 @@
+<!-- Views/Home/Index.cshtml -->
+@model MyWebApp.Models.HomeViewModel
+
+@{
+ViewData["Title"] = Model.Title;
+}
+
+<h1>@Model.Title</h1>
+<ul>
+    @foreach (var item in Model.Items)
+    {
+    <li>@item</li>
+    }
+</ul>
